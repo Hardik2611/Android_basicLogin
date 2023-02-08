@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HardikGoyal_loginspin</string>
+    <string name="mail">Email</string>
+    <string name="pass">Password</string>
+    <string name="log">Login</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back</string>
+    <string-array name="color">
+        <item>Select any color...</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Brown</item>
+    </string-array>
+</resources>
